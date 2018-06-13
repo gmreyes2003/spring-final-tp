@@ -1,0 +1,24 @@
+Proyecto Final para el Curso de Spring Framework
+
+Módulo 1) Modelar la relación entre Alumnos - Cursos - Profesores de manera tal que:
+Un Alumno puede inscribirse a 1 o más cursos.
+Un Curso tiene varios alumnos inscriptos.
+Un Curso tiene 1 profesor asignado.
+Un Profesor puede tener varios cursos asignados 
+
+Módulo 2) Utilizar Spring MVC para crear una aplicación con dos vistas. 
+
+Módulo 3) Realizar la conexión a la BD y crear una BD con las tablas necesarias en MySql para modelar la relación Alumnos, Cursos, Profesores. 
+Aplicar el Patrón DAO. 
+Hacer un ABM utilizando JDBCTemplate con los métodos INSERT, UPDATE, DELETE, SELECT básicos y que muestre los datos por consola / o en una vista.
+Queremos además una consulta que nos muestre todos los inscriptos por curso y otra que nos muestre los cursos que dicta cada profesor.
+
+* Una vez finalizado cada punto deben subir un nuevo branch con el nombre “ModuloUno”, “ModuloDos”, etc, al repositorio de github que han creado.
+
+Por favor Escribir los links sus repositorios github aquí:
+https://github.com/leandrotula/templateprojectspring/tree/springdata
+
+
+Evaluación:
+
+* Las dos últimas clases (6 y 7 de junio) se realizará la presentación de los proyectos. Deberán hacer una demo donde expongan las funcionalidades implementadas en la aplicación y demuestren el conocimiento de los temas teóricos estudiados.
